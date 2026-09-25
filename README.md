@@ -1,5 +1,7 @@
 # output-contract
 
+English | [简体中文](README.zh-CN.md)
+
 **An Agent Skill that stops AI coding agents from scattering files all over your workspace.**
 
 If you use Claude Code, Codex CLI, ZCode, Cursor, or any coding agent, you know the pattern: a quick analysis script here, a `run.log` and a `fig1_final.png` there, three `test_tmp.py` in the repo root — because agents write wherever the current working directory happens to be. Cleaning up afterwards costs far more than agreeing on destinations *before* the first line of code.
